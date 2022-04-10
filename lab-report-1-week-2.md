@@ -57,6 +57,20 @@ An example is shown in the images below. The first screenshot shows running a fi
 ![image](Screenshot7.png)
 
 ### Setting an SSH Key
+In order to avoid having to type in a password everytime the ssh or scp command is run, we will set up an ssh key.
+1. On your local computer, type `ssh-keygen`. 
+2. You will be prompted to enter a file. Here, you type `/Users/<user-name>/.ssh/id-rsa` replacing user-name with the username on your local computer.
+3. Do not enter a passphrase. Just click enter to skip.
+4. Next run the ssh command as usual to log into the server.
+5. Type `mkdir .ssh`
+6. Logout of the server
+7. Type `scp /Users/<user-name>/.ssh/id_rsa.pub cs15lsp22zzz@ieng6.ucsd.edu:~/.ssh/authorized_keys`, replacing user-name with the username on your local computer and 'zzz' with your unique letters.
+
+Now you should be able to log into the server without a password, like this:
+<br />
+
+![image](Screenshot8.png)
+
 
 ### Optimizing Remote Running
 
