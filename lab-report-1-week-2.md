@@ -71,10 +71,20 @@ Now you should be able to log into the server without a password, like this:
 
 ![image](Screenshot8.png)
 
+<br />
 
 ### Optimizing Remote Running
+Now we will try to run the commands with fewer keystrokes. Some examples of things you can do to speed up the remote running are:
+* Writing a command in quotes ("") after the ssh command, to run it from the server, and then exit the server
+* Separate multiple commands on the same line with semicolons
+* Use the up arrow to recall previous commands
 
+<br />
 
+An example of copying the WhereAmI.java file to the server and running it from there using these tricks is shown below:
+![image](Screenshot9.png)
 
+<br />
+<br />
 
-![Image](Screenshot1.png)
+This is the end of Lab Report 1. Thank you for reading! :) 
