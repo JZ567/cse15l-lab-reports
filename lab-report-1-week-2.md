@@ -39,12 +39,22 @@ The following should appear on your terminal once you have remotely connected:
 ---
 1. Try typing in some commands to the terminal. Some commands to try are `cd`, `ls`, `pwd`, `mkdir`, `cp`, and their variations.
 2. One example of a command I ran was the `pwd` command which printed the path to the current folder I was in.
-
 <br />
 
 ![pwd](Screenshot5.png)
 
 ### Moving files with scp
+---
+1. Log out of the remote server by typing `exit` and hitting enter
+2. To move a file from your local computer to the server, type `scp filename.java cs15lsp22zzz@ieng6.ucsd.edu` replacing filename with the name of the file you wish to move and 'zzz' with the unique letters for your account.
+<br />
+
+An example is shown in the images below. The first screenshot shows running a file called WhereAmI.java from the client and then running the scp command on the WhereAmI file. The second screenshot shows connecting to the server and shows that the file WhereAmI.java is now there. Then WhereAmI.java is run from the remote server.
+<br />
+
+![image](Screenshot6.png)
+<br />
+![image](Screenshot7.png)
 
 ### Setting an SSH Key
 
