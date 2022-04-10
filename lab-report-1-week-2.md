@@ -9,11 +9,9 @@ Visual Studio Code is a useful text editor that can be used to write, debug, and
 1. Go to the Visual Studio Code [website](https://code.visualstudio.com/).
 2. Click on the blue Download button on the top right corner of the website. Select the version to download that works with your computer.
 
-<br />
 
 ![Download Button](Screenshot2.png)
 
-<br />
 
 3. Follow the remaining instructions given by VS Code to complete the installation. Once completed, you will be able to open the following page:
 
@@ -38,6 +36,13 @@ The following should appear on your terminal once you have remotely connected:
 <br />
 
 ### Trying Some Commands
+---
+1. Try typing in some commands to the terminal. Some commands to try are `cd`, `ls`, `pwd`, `mkdir`, `cp`, and their variations.
+2. One example of a command I ran was the `pwd` command which printed the path to the current folder I was in.
+
+<br />
+
+![pwd](Screenshot5.png)
 
 ### Moving files with scp
 
