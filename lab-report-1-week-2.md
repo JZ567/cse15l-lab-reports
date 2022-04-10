@@ -3,17 +3,27 @@
 How to log into a course-specific account on `ieng6`.
 
 
-
 ## Installing Visual Studio Code
-
+---
 Visual Studio Code is a useful text editor that can be used to write, debug, and run code. To install VS Code, follow these steps:
 1. Go to the Visual Studio Code [website](https://code.visualstudio.com/).
 2. Click on the blue Download button on the top right corner of the website. Select the version to download that works with your computer.
-![Download Button](Screenshot2.png)
-3. Follow the remaining instructions given by VS Code to complete the installation. Once completed, you will be able to open the following page
 
+![Download Button](Screenshot2.png)
+
+3. Follow the remaining instructions given by VS Code to complete the installation. Once completed, you will be able to open the following page:
+
+![VS Code](Screenshot3.png)
 
 ## Remotely Connecting
+---
+1. Open a terminal in VS Code by clicking Terminal --> New Terminal
+2. Type `ssh cs15lsp22zzz@ieng6.ucsd.edu` into the terminal, replacing 'zzz' with the three unique letters you get for your account.
+3. A message may pop up asking you if you want to continue connecting. Type `yes` and enter and then type your password. Now you should be remotely connected to a computer in the CSE basement.
+
+The following should appear on your terminal once you have remotely connected:
+
+![Connected](Screenshot4.png)
 
 ## Trying Some Commands
 
