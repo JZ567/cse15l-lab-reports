@@ -5,20 +5,20 @@
 
 <br />
 
-Link to failure inducing file: [test-file2](https://JZ567.github.io/markdown-parser/test-file2.md)
+Link to failure inducing file: [test-file2](https://JZ567.github.io/cse15l-lab-reports/test-file2.html)
 
 ### Bug 2: Empty brackets with no link following 
 ![CodeChangeDiff2](Screenshot2ndRprt2.png)
 
 <br />
 
-Link to failure inducing file: [test-file3](https://JZ567.github.io/markdown-parser/test-file3.md)
+Link to failure inducing file: [test-file3](https://JZ567.github.io/cse15l-lab-reports/test-file3.html)
 
 ### Bug 3: Parenthesis within the link
 ![CodeChangeDiff3](Screenshot2ndRprt3.png)
 
 <br />
 
-Link to failure inducing file: [test-file-extra-parenthesis](https://JZ567.github.io/markdown-parser/test-file-extra-parenthesis.md)
+Link to failure inducing file: [test-file-extra-parenthesis](https://JZ567.github.io/cse15l-lab-reports/test-file-extra-parenthesis.html)
 
 
