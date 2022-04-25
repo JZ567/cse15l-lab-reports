@@ -1,6 +1,6 @@
 # Lab Report 2
 
-### Bug 1: Text after the links 
+## Bug 1: Text after the links 
 <br />
 
 Code change diff:
@@ -19,7 +19,7 @@ Symptom for failure inducing input:
 
 The symptom was a heap space error since the code was running an infinite while loop. This is because there was a bug where this input caused the variable currentIndex to always be less than markdown.length(), so the code would be stuck in the while loop. To solve this, I tracked if the variable openBracket is less than the variable currentIndex, and if so, set the current index to markdown.length() to get out of the while loop.
 
-### Bug 2: Empty brackets with no link following 
+## Bug 2: Empty brackets with no link following 
 <br />
 
 Code change diff:
@@ -40,7 +40,7 @@ Symptom for failure inducing input:
 The symptom was an IndexOutOfBoundsException since the variable openParen would be set to -1. This is because in this input, there are no open parenthesis, so the variable openParen would be set to -1. To solve this, I looked to see if the variable openParen was equal to -1, and if so, returned an empty ArrayList.
 
 
-### Bug 3: Parenthesis within the link
+## Bug 3: Parenthesis within the link
 <br />
 
 Code change diff:
