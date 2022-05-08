@@ -1,4 +1,4 @@
-# Lab Report 3xs
+# Lab Report 3
 
 ## Streamlining ssh Configuration
 
@@ -24,5 +24,7 @@ Screenshot of scp command with alias:
 <br />
 
 ## Setup Github Access from ieng6
+
+First, I typed in `cat ~/. ssh/id_rsa_github.pub` to copy the contents of id_rsa_github.pub to my clipboard. Then, 
 
 ## Copy whole directories with scp -r
