@@ -1,4 +1,4 @@
-# Lab Report 3xs
+# Lab Report 3
 
 ## Streamlining ssh Configuration
 
