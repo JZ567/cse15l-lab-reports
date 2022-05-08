@@ -25,6 +25,17 @@ Screenshot of scp command with alias:
 
 ## Setup Github Access from ieng6
 
-First, I typed in `cat ~/. ssh/id_rsa_github.pub` to copy the contents of id_rsa_github.pub to my clipboard. Then, 
+First, I created an ssh key from my ieng6 account.
+Then, I typed in `cat ~/. ssh/id_rsa_github.pub` to copy the contents of id_rsa_github.pub to my clipboard and added it to Github.
+
+![screenshot](Screenshot3rdRprt4.png)
+![screenshot](Screenshot3rdRprt5.png)
+
+<br />
+
+Unfortunately, the git commands are not working from the ieng6 server. 
+Here is a screenshot of what shows instead: 
+
+There were no office/tutor hours today, but I will try get help on this and resubmit during the resubmission period.
 
 ## Copy whole directories with scp -r
