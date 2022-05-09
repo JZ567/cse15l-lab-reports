@@ -39,3 +39,17 @@ Here is a screenshot of what shows instead:
 There were no office/tutor hours today, but I will try get help on this and resubmit during the resubmission period.
 
 ## Copy whole directories with scp -r
+
+For this step, we copied the whole markdown-parser-2 directory with the scp command to the ieng6 server.
+
+![screenshot](Screenshot3rdRprt6.png)
+
+<br />
+
+We can then compile and run the tests from the ieng server.
+![screenshot](Screenshot3rdRprt7.png)
+
+<br />
+
+Lastly, we can combine these steps into one line:
+![screenshot](Screenshot3rdRprt8.png)
