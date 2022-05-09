@@ -33,8 +33,12 @@ Then, I typed in `cat ~/. ssh/id_rsa_github.pub` to copy the contents of id_rsa_
 
 <br />
 
-Unfortunately, the git commands are not working from the ieng6 server. 
+The git commit command words, but ynfortunately the git push command is not working from the ieng6 server. 
 Here is a screenshot of what shows instead: 
+
+![screenshot](Screenshot3rdRprt9.png)
+
+<br />
 
 There were no office/tutor hours today, but I will try get help on this and resubmit during the resubmission period.
 
