@@ -41,7 +41,7 @@ Running git commands to commit and push a change to Github while logged into ien
 
 <br />
 
-Link to the commit: [link](https://github.com/JZ567/markdown-parser-2/blob/main/MarkdownParse.java)
+Link to the commit: [link](https://github.com/JZ567/markdown-parser-2/commit/a5c5d04daddbe813fb1cffc6bd28442a73d96b1c)
 
 ## Copy whole directories with scp -r
 
