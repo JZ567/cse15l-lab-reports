@@ -25,22 +25,23 @@ Screenshot of scp command with alias:
 
 ## Setup Github Access from ieng6
 
+In this part of the lab, we set up Github access from the ieng6 account, so that we can type git commands in the terminal to commit and push from the command line.
+
 First, I created an ssh key from my ieng6 account.
-Then, I typed in `cat ~/. ssh/id_rsa_github.pub` to copy the contents of id_rsa_github.pub to my clipboard and added it to Github.
+Then, I typed in `cat ~/. ssh/id_rsa.pub` to copy the contents of id_rsa.pub to my clipboard and added it to Github.
 
 ![screenshot](Screenshot3rdRprt4.png)
 ![screenshot](Screenshot3rdRprt5.png)
 
 <br />
 
-The git commit command words, but ynfortunately the git push command is not working from the ieng6 server. 
-Here is a screenshot of what shows instead: 
+Running git commands to commit and push a change to Github while logged into ieng6 account:
 
-![screenshot](Screenshot3rdRprt9.png)
+![screenshot](Screenshot3rdRprt10.png)
 
 <br />
 
-There were no office/tutor hours today, but I will try get help on this and resubmit during the resubmission period.
+Link to the commit: [link](https://github.com/JZ567/markdown-parser-2/blob/main/MarkdownParse.java)
 
 ## Copy whole directories with scp -r
 
