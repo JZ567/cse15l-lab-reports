@@ -17,7 +17,7 @@ Code in MarkdownParseTest.java:
 
 <br />
 
-Output when running test for my implementation:
+The test did not pass for my implementation. Output when running test for my implementation:
 
 ![screenshot](Screenshot4thRprt4.png)
 
@@ -33,7 +33,7 @@ Code in MarkdownParseTest.java:
 
 <br />
 
-Output when running test for my implementation:
+The test did not pass for my implementation. Output when running test for my implementation:
 
 ![screenshot](Screenshot4thRprt5.png)
 
@@ -49,7 +49,7 @@ Code in MarkdownParseTest.java:
 
 <br />
 
-Output when running test for my implementation:
+The test did not pass for my implementation. Output when running test for my implementation:
 
 ![screenshot](Screenshot4thRprt6.png)
 
