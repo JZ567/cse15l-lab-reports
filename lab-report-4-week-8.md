@@ -13,6 +13,8 @@ Expected output: `["google.com", "google.com", "ucsd.com"]`
 
 Code in MarkdownParseTest.java: 
 
+![screenshot](Screenshot4thRprt1.png)
+
 <br />
 
 ## Snippet 2
@@ -21,6 +23,8 @@ Expected output: `["a.com", "a.com(())", "example.com"]`
 
 Code in MarkdownParseTest.java: 
 
+![screenshot](Screenshot4thRprt2.png)
+
 <br />
 
 ## Snippet 3
@@ -28,3 +32,6 @@ Code in MarkdownParseTest.java:
 Expected output: `["https://www.twitter.com", "https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule", "https://cse.ucsd.edu/"]`
 
 Code in MarkdownParseTest.java: 
+
+![screenshot](Screenshot4thRprt3.png)
+
