@@ -19,6 +19,8 @@ Code in MarkdownParseTest.java:
 
 Output when running test for my implementation:
 
+![screenshot](Screenshot4thRprt4.png)
+
 <br />
 
 ## Snippet 2
@@ -33,6 +35,8 @@ Code in MarkdownParseTest.java:
 
 Output when running test for my implementation:
 
+![screenshot](Screenshot4thRprt5.png)
+
 <br />
 
 ## Snippet 3
@@ -46,4 +50,6 @@ Code in MarkdownParseTest.java:
 <br />
 
 Output when running test for my implementation:
+
+![screenshot](Screenshot4thRprt6.png)
 
