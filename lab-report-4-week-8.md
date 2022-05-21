@@ -17,6 +17,10 @@ Code in MarkdownParseTest.java:
 
 <br />
 
+Output when running test for my implementation:
+
+<br />
+
 ## Snippet 2
 
 Expected output: `["a.com", "a.com(())", "example.com"]`
@@ -27,6 +31,10 @@ Code in MarkdownParseTest.java:
 
 <br />
 
+Output when running test for my implementation:
+
+<br />
+
 ## Snippet 3
 
 Expected output: `["https://www.twitter.com", "https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule", "https://cse.ucsd.edu/"]`
@@ -34,4 +42,8 @@ Expected output: `["https://www.twitter.com", "https://sites.google.com/eng.ucsd
 Code in MarkdownParseTest.java: 
 
 ![screenshot](Screenshot4thRprt3.png)
+
+<br />
+
+Output when running test for my implementation:
 
