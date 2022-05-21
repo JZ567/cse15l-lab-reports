@@ -23,6 +23,12 @@ The test did not pass for my implementation. Output when running test for my imp
 
 <br />
 
+The test did not pass for the peer implementation I reviewed in week 7. Output when running test for this implementation:
+
+![screenshot](Screenshot4thRprt7.png)
+
+<br />
+
 ## Snippet 2
 
 Expected output: `["a.com", "a.com(())", "example.com"]`
@@ -39,6 +45,12 @@ The test did not pass for my implementation. Output when running test for my imp
 
 <br />
 
+The test did not pass for the peer implementation I reviewed in week 7. Output when running test for this implementation:
+
+![screenshot](Screenshot4thRprt8.png)
+
+<br />
+
 ## Snippet 3
 
 Expected output: `["https://www.twitter.com", "https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule", "https://cse.ucsd.edu/"]`
@@ -52,4 +64,10 @@ Code in MarkdownParseTest.java:
 The test did not pass for my implementation. Output when running test for my implementation:
 
 ![screenshot](Screenshot4thRprt6.png)
+
+<br />
+
+The test did not pass for the peer implementation I reviewed in week 7. Output when running test for this implementation:
+
+![screenshot](Screenshot4thRprt8.png)
 
