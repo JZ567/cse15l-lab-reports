@@ -1,4 +1,5 @@
 # Lab Report 4
+<br />
 
 Link to my markdown-parse repository: [Link](https://github.com/JZ567/markdown-parser-2)
 
@@ -8,17 +9,17 @@ Link to markdown-parse repository reviewed in week 7: [Link](https://github.com/
 
 ## Snippet 1
 
-Expected output: [google.com, google.com, ucsd.com]
+Expected output: `["google.com", "google.com", "ucsd.com"]`
 
 
 <br />
 
 ## Snippet 2
 
-Expected output:
+Expected output: `["a.com", "a.com(())", "example.com"]`
 
 <br />
 
 ## Snippet 3
 
-Expected output:
+Expected output: `["https://www.twitter.com", "https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule", "https://cse.ucsd.edu/"]`
