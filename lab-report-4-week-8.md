@@ -13,7 +13,7 @@ Expected output: `["%60google.com", "google.com", "ucsd.com"]`
 
 Code in MarkdownParseTest.java: 
 
-![screenshot](Screenshot4thRprt1.png)
+![screenshot](Screenshot4thRprt1New.png)
 
 <br />
 
