@@ -9,7 +9,7 @@ Link to markdown-parse repository reviewed in week 7: [Link](https://github.com/
 
 ## Snippet 1
 
-Expected output: `["google.com", "google.com", "ucsd.com"]`
+Expected output: `["%60google.com", "google.com", "ucsd.com"]`
 
 Code in MarkdownParseTest.java: 
 
