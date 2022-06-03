@@ -16,11 +16,13 @@ The provided implementation is correct.
 <br />
 
 My implementation output:
+
 ![screenshot](Screenshot5thRprt2.png)
 
 <br />
 
 Provided implementation output:
+
 ![screenshot](Screenshot5thRprt3.png)
 
 <br />
@@ -43,11 +45,13 @@ The provided implementation is correct.
 <br />
 
 My implementation output:
+
 ![screenshot](Screenshot5thRprt5.png)
 
 <br />
 
 Provided implementation output:
+
 ![screenshot](Screenshot5thRprt6.png)
 
 <br />
