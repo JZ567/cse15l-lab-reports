@@ -37,3 +37,25 @@ The program is not taking into account the newline that is between the parenthes
 ## Test 2: Test File 472
 
 Link to test file: [Link](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/472.html.test)
+
+The provided implementation is correct.
+
+<br />
+
+My implementation output:
+![screenshot](Screenshot5thRprt5.png)
+
+<br />
+
+Provided implementation output:
+![screenshot](Screenshot5thRprt6.png)
+
+<br />
+
+Expected output: `/url` 
+
+<br />
+
+The program is doubling the output. This is because the while loop is running twice when it should only be running once. To fix this, I need to update currentIndex, which should be done after adding the link to toReturn but before exiting the while loop. This would also be after line 84 in this screenshot:
+
+![screenshot](Screenshot5thRprt4.png)
